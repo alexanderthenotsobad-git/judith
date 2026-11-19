@@ -1,0 +1,9 @@
+Connected app detail
+
+Replit Agent
+
+Software Development Agents
+
+Capabilities
+
+Builds and ships working applications on Replit by directing the AI Agent through natural-language prompts

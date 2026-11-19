@@ -1,0 +1,390 @@
+About
+
+I am a software developer and technical leader focused on AWS based APIs and enterprise integrations. In my current role, I work with large-scale systems including SAP, Salesforce, Power Automate, Snowflake, and internal applications, and I serve as the primary owner for our team's Apache Kafka infrastructure.
+
+In addition to development, I act as a technical partner to our team's architect and engineering leadership. I support architectural decision-making, contribute to system design discussions, and lead knowledge-sharing sessions. I enjoy mentoring and helping newer developers and interns.
+
+I am committed to community and representation in tech. Through my involvement with AISES (American Indian Science and Engineering Society), I support Native American students and early-career professionals by sharing my experiences and helping create pathways into technology careers.
+Activity
+
+1,045 followers
+Posts
+Comments
+Images
+
+    View Judith Mitchell’s profile
+
+    Judith Mitchell reposted this
+
+    AWS Orange County User Group | Women in Tech
+
+    Michelle Chang • 2nd
+
+    2d • 
+
+    📣 Calling all Orange County women in tech: Excited to announce that we’re launching the AWS Orange County Women in Tech User Group, and you’re invited to the kickoff December 1, 4:30-6:30pm!
+    This event is for women in tech (men who support women are welcome too!) who want to learn, build, and grow together. Whether you’ve never touched AWS or work with it every day, swing by to wind down your evening and meet new people!
+    🤝 Meet your fellow OC community members
+    🍹 Iced teas + egg rolls
+    📋 A look at our 2027 plans
+    RSVP here: https://lnkd.in/geKu9EGz
+    … more
+    View image
+    13
+    ​
+    2
+    ​
+    View Judith Mitchell’s profile
+
+    Judith Mitchell reposted this
+    View Adrian Crosby’s profile
+
+    Adrian Crosby
+
+     
+     • 2nd
+
+    Software Developer | TypeScript · React · Node.js · PostgreSQL · Python
+
+    5d • 
+
+    Photo from the recent AWS Game Day, led by Elizabeth Fuentes Leone.
+
+    We used Kiro CLI to build a multimodal agent on Amazon Bedrock AgentCore that connects to three tools through a single gateway. Kiro wrote most of the code. Watching an AI agent build an AI agent was pretty cool!
+
+    Thanks to Judith Mitchell for building this community.
+    … more
+    View image
+    19
+    5
+    1
+    ​
+    View Judith Mitchell’s profile
+
+    Judith Mitchell
+
+     
+     • 1st
+
+    AWS APIs and Integrations at 3M | AWS Los Angeles User Group Lead
+
+    6d • 
+
+    Excited to bring the LA AWS community together for another fun evening! Come hang out, test your AWS knowledge, meet some new people, and maybe win a prize or two. Hope to see you there! 🎉
+
+    RSVP: https://lnkd.in/gdiim84m
+    … more
+
+    AWS User Group Los Angeles - AWS Builders LA
+
+    Judith Mitchell • 1st
+
+    6d • Edited • 
+
+    🎉 AWS Trivia & Networking Night is coming to LA!
+
+    We're bringing the AWS community together on December 3rd for a fun, laid-back evening of trivia, food, prizes, and networking! Whether you're an AWS pro, a cloud enthusiast, or just getting started, come hang out, test your AWS knowledge, and meet others in the local tech community.
+
+    🏆 Prizes up for grabs!
+    🍕 Food and networking
+    🧠 Fun AWS trivia
+
+    RSVP here: https://lnkd.in/gdiim84m
+
+    #AWS #AWSCommunity #AWSBuilders #Networking #LosAngelesTech
+    … more
+    View image
+    25
+    1
+    1
+    ​
+
+    AWS User Group Los Angeles - AWS Builders LA
+
+    Judith Mitchell • 1st
+
+    6d • Edited • 
+
+    🎉 AWS Trivia & Networking Night is coming to LA!
+
+    We're bringing the AWS community together on December 3rd for a fun, laid-back evening of trivia, food, prizes, and networking! Whether you're an AWS pro, a cloud enthusiast, or just getting started, come hang out, test your AWS knowledge, and meet others in the local tech community.
+
+    🏆 Prizes up for grabs!
+    🍕 Food and networking
+    🧠 Fun AWS trivia
+
+    RSVP here: https://lnkd.in/gdiim84m
+
+    #AWS #AWSCommunity #AWSBuilders #Networking #LosAngelesTech
+    … more
+    View image
+    ​
+    ​
+    1
+    ​
+    View Judith Mitchell’s profile
+
+    Judith Mitchell
+
+     
+     • 1st
+
+    AWS APIs and Integrations at 3M | AWS Los Angeles User Group Lead
+
+    1w • 
+
+    What a privilege it is to be part of such a wonderful community, connecting, sharing knowledge, and learning together!
+
+    A big thank you to Elizabeth Fuentes Leone for leading our Game Day and creating an opportunity for us to learn, collaborate, and have some fun along the way.
+
+    Grateful for this community and excited for what’s ahead!
+
+    #AWSCommunity #AWS #CloudComputing
+    … more
+    View image
+
+    1/2
+    45
+    2
+    3
+    ​
+    View Judith Mitchell’s profile
+
+    Judith Mitchell reposted this
+    View Cleber Cuzziol, MBE’s profile
+
+    Cleber Cuzziol, MBE
+
+     
+     • 1st
+
+    CEO & Co-Founder at MV Risk Modeling Solutions
+
+    2w • 
+
+    Another great cybersecurity security meeting at OWASP LA . Great panel discussing AI penetrating testing models.
+    Cyberattacks are even more dangerous now. 
+
+    AI tools can help prevent them or to produce. In which side of the force are you?
+    #aipenetratingmodels
+    #aicybersecurity
+    … more
+    View image
+
+    1/4
+    19
+    1
+    1
+    ​
+    View Judith Mitchell’s profile
+
+    Judith Mitchell reposted this
+    View Elizabeth Fuentes Leone’s profile
+
+    Elizabeth Fuentes Leone
+
+     
+     • 1st
+
+    AWS Developer Advocate 🇻🇪 | AI Engineer
+
+    4w • 
+
+    Like many of you, I was saddened by the cancellation of the Grace Hopper Celebration (GHC). Hundreds of attendees were left without the chance to learn, network, and find their mentor.
+      
+    In my case, I was going to be a speaker alongside Sandhya Subramani and Laura Salinas. Our session was "5 Techniques to Stop AI Agent Hallucinations" and the good news is the session already lives on as code, a workshop, and a deck. URLs in the comments. 👇
+      
+    I also want to thank Oluwaseun Omotayo, Prasad Rao ,and Keerthi Sreenivas, who amplified the initiative championed by my director David Nalley:
+      
+    For those who were planning to attend GHC, here's another opportunity to connect with the tech community and make the most of the conference season. AWS is offering free passes to attend AWS re:Invent instead. ✨
+
+    Here's what you need to know: 
+    ✨ Dates: November 30 – December 4, 2026 
+    ✨ Location: Las Vegas, Nevada 
+    ✨ Cost: Complimentary passes 
+    ✨ Availability: First come, first served
+
+    How to request your pass:
+    1. Find proof of your valid GHC registration.
+    2. Email aws-ghc@amazon.com (mailto:aws-ghc@amazon.com) with your proof of registration.
+    3. Request a code for a complimentary pass.
+      
+    If you were affected by the GHC cancellation, don't miss this opportunity!
+      
+    Going to re:Invent? Let's meet up! 🙌  I'll be giving a couple of sessions and spending time with the tech communities that make this event come alive. 
+
+    See you in Vegas.
+
+    #AWS #reinvent #GHC
+    … more
+    View image
+    64
+    8
+    13
+    ​
+    View Judith Mitchell’s profile
+
+    Judith Mitchell reposted this
+    View Serena McCullough, DTM’s profile
+
+    Serena McCullough, DTM
+
+     
+     • 2nd
+
+    Legal Sales Executive (LHH) & Immediate Past District Director (Toastmasters)
+
+    1mo • Edited • 
+
+    Build Your Network and Your Voice 💬✨
+    Join Professional Women Toastmasters of LA for a special hybrid meeting designed to connect, empower, and support professional women through meaningful networking and the development of communication and leadership skills.
+    🤝 Meet like-minded women
+    🎤 Enhance your communication skills
+    💪 Gain leadership confidence
+    🌐 Expand your network
+    🌟 Be part of a supportive community
+    📅 Thursday, October 22 | 6:30 PM – 8:00 PM  
+    📍 Community Room, 9301 Corbin Ave, Northridge, CA 91324  
+    💻 Hybrid: In person & online — all are welcome! Guests encouraged.
+    👉 Register here: https://bit.ly/PWLAOct22
+    Let’s grow together ,professionally and personally, as we build our voices and strengthen our networks.
+    Tagging some of our amazing members who help make this community thrive:
+    Kisha Hollins, Karineh Jacobs, Annette McCullough, Bethany Pawlisch Yamawaki, Lesley Martinez, MS, RDN, Yenssy Noverola, Rebecca O'Connor, Izza Acosta, Arti Dutt 🌟, Sara sharafi, MSc., Monique Franceschini, Judith Mitchell, Ivy Arce and more! :)
+    … more
+    View image
+    7
+    2
+    3
+    ​
+    View Judith Mitchell’s profile
+
+    Judith Mitchell
+
+     
+     • 1st
+
+    AWS APIs and Integrations at 3M | AWS Los Angeles User Group Lead
+
+    1mo • 
+
+    The LA AWS User Group is hosting a Halloween themed AWS GameDay! 👻 
+     
+    If you haven't experienced a GameDay before: think hackathon meets workshop. It's a hands-on, team-based competition where you deploy and troubleshoot live AWS workloads, solve real architecture challenges, and compete on a live leaderboard. Teams will have a chance to walk away with prizes courtesy of AWS.
+
+    Huge thank you to AWS Developer Advocate Elizabeth Fuentes Leone for helping put this on! 
+
+    RSVP here: https://lnkd.in/gPPDqZrT
+
+    🗓️ October 27th
+    ⏰ 4:30–7:30 PM
+    📍 Amazon LAX10, Santa Monica
+    … more
+    View image
+    45
+    1
+    2
+    ​
+
+    AWS User Group Los Angeles - AWS Builders LA
+
+    Judith Mitchell • 1st
+
+    1mo • 
+
+    The LA AWS User Group is hosting a Halloween themed AWS GameDay! 👻 
+     
+    If you haven't experienced a GameDay before: think hackathon meets workshop. It's a hands-on, team-based competition where you deploy and troubleshoot live AWS workloads, solve real architecture challenges, and compete on a live leaderboard. Teams will have a chance to walk away with prizes courtesy of AWS.
+
+    Huge thank you to AWS Developer Advocate Elizabeth Fuentes for helping put this on! 
+
+    RSVP here: https://lnkd.in/gnJxYVSZ
+
+    🗓️ October 27th
+    ⏰ 4:30–7:30 PM
+    📍 Amazon LAX10, Santa Monica
+    … more
+    View image
+    22
+    2
+    3
+    ​
+
+Show all
+Experience
+3M logo
+
+Software Engineer
+
+3M · Full-time
+
+Nov 2022 - Present · 4 yrs 1 mo
+
+Present
+
+Remote
+
+- Design and implement new REST and event-driven AWS APIs, integrating enterprise systems including SAP, Salesforce, Power Automate, Snowflake, and in-house applications, while maintaining and enhancing 100+ existing APIs used across 3M.
+
+- Configure and administer Apache Kafka/MSK infrastructure, setting up topics, partitions, and ACLs to support high-volume data pipelines, and currently leading failover design by standing up a new MSK cluster in an additional AWS region. Handle 255,000+ events/day on Kafka.
+
+- Implement secure API access using OAuth 2.0 and AWS IAM, enforcing fine-grained policies and token-based authentication for internal and external integrations.
+
+- Serve as Scrum Master, facilitating sprint planning, standups, and gate reviews to deliver continuous improvements across the Integrations portfolio.
+3M logo
+
+Intelligent Automation Solutions Intern
+
+3M · Internship
+
+Jun 2022 - Aug 2022 · 3 mos
+
+Minnesota, United States
+
+Worked with 3M’s Intelligent Automation Solutions team in developing an Intelligent Document Processing application using AWS Lambda, Amazon Textract (OCR), and Amazon Comprehend (NLP) to automate data extraction of invoices.
+
+ Amazon Web Services (AWS), Machine Learning and +2 skills
+American Indian Science and Engineering Society logo
+
+Outreach Coordinator
+
+American Indian Science and Engineering Society · Part-time
+
+Jun 2021 - Jun 2022 · 1 yr 1 mo
+
+UCLA 
+Thumbnail for AISES at UCLA earns national award for efforts to expand Indigenous presence in STEM - Daily Bruin
+
+AISES at UCLA earns national award for efforts to expand Indigenous presence in STEM - Daily Bruin
+
+The UCLA chapter of the American Indian Science and Engineering Society won the Professional Chapter of the Year award at the 2021 AISES National Conference on Sept.
+
+ Tutoring and Community Outreach
+Community Programs Office logo
+
+Community Programs Office
+
+Part-time · 3 yrs 1 mo
+
+    AIR Assistant Project Director
+
+    Jun 2019 - Jun 2022 · 3 yrs 1 mo
+
+    Los Angeles, California, United States
+
+    - Assistant project coordinator under the UCLA's American Indian Recruitment project that works to increase admission of AI/AN students into higher education institutions.
+    - Create higher education workshops for Native American high school seniors and K-12 tutoring. Worked with 60 high school seniors in the 2020-2021 school year, and met with 250+ students in the 2021-2022 school year.
+    -Prepare the annual and summer budget proposal and projected costs for advertising, graphics, supplies, and transportation.
+    -Aid in arranging meetings and modifying affiliation agreements to suit each tutoring site’s needs, ensuring COVID-19 efforts are in place.
+    … more
+
+     Community Outreach, Budget Proposals and +2 skills
+
+    AIR Site Coordinator
+
+    Jan 2020 - Jun 2020 · 6 mos
+
+    UCLA
+
+    -Site Coordinator at UCLA's American Indian Recruitment Project 
+    -Tutor in mathematics, science, computer programming, and reading comprehension with the Pukuu Project, United American Indian Involvement, and Ventura County Indian Education Program for K-12 American Indian students.
+    -Provide peer counseling for all students in participating in the program, with a focus on academic, physical, emotional, and spiritual health.
